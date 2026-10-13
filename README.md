@@ -1,4 +1,5 @@
 # DeepSeek Desktop for Windows
+<img width="1604" height="948" alt="image" src="https://github.com/user-attachments/assets/d055b506-8c0f-4589-a8d6-c9c3df208001" />
 
 **An unofficial desktop application for DeepSeek, built with Electron.**
 
